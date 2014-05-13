@@ -8,11 +8,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Hester van Deutekom
-tagline: Communiceren in eenvoudig Nederlands
+title : Skateology
+tagline: De skate vereniging van Leiden
 author :
-  name : Hester van Deutekom
-  email : hester@vdeute.com
+  name : Lukas van Driel
+  email : lukas@3l.nl
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -22,7 +22,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://hester.vdeute.com
+production_url : http://skateology.nl
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
