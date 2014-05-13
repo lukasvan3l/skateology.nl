@@ -1,0 +1,13 @@
+BODY, TABLE {
+	font-family: verdana;
+	font-size: 11;
+	color: #000099;
+	background-color: white;
+	margin: 0;
+}
+A {
+	font-family: verdana;
+	font-size: 11;
+	color: #000099;
+	background-color: white;
+}

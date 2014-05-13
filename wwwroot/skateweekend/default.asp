@@ -1,0 +1,1 @@
+<%response.redirect("../default.asp?a=skateweekend2007")%>

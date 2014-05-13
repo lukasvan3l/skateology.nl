@@ -1,0 +1,24 @@
+.tekst {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	line-height: 18px;
+	margin:0px;
+	}
+	
+.kop {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 20px; 
+	color: #000000;
+	}
+	
+.kop2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 14px; 
+	font-weight: bold;
+	}
+	
+.datum {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 10px; 
+	color: #999999;
+	}

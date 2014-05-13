@@ -1,0 +1,155 @@
+BODY, TD, .tekst {  
+	font-family: 	Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 		11px; 
+	line-height: 	17px;
+	margin:			0px;
+	}
+
+H1, .kop1 {  
+	font-family: 	Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 		20px; 
+	color: 			#000;
+	font-weight:	normal;
+	line-height:	15px;
+	width:			500px;
+	height:			24px;
+	border-bottom:	1px dashed #999;
+	}
+
+H2, .kop2 { 
+	font-family: 	Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 		14px; 
+	font-weight: 	bold;
+	}
+
+H3, .kop3 {
+	font-family: 	Verdana, Arial, Helvetica, sans-serif;
+	font-size: 		12px; 
+	font-weight: 	bold; 
+	font-style: 	italic; 
+	text-align: 	right;
+	color:			#FFFFFF;
+	margin:			0px;
+	}
+	
+A { 
+	text-decoration:underline;
+	color:			#000;
+	}
+
+A:hover { 
+	text-decoration:underline; 
+	color:			#666;
+	}
+
+.menurechts { 
+	font-family: 	Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 		11px;
+	padding-top:	10px;
+	}
+	
+.content {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 		11px; 
+	line-height: 	18px;
+	color: 			#000;
+	text-align: 	left;
+	vertical-align: top;
+	padding: 		10px;
+	}
+
+.bijschrift {
+	color:			#999;
+	}
+
+.logo	{
+	height: 		20px;
+	width: 			540px;
+	valign:			bottom;
+	}
+	
+.datum {
+	font-family: 	Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 		10px; 
+	line-height: 	18px;
+	color: 			#999;
+	text-align: 	right;
+	vertical-align: center;
+	height: 		20px;
+	width:			210;
+	}
+
+.menu {
+	font-family: 	Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 		10px; 
+	line-height: 	18px;
+	color: 			#000;
+	height: 		20px;
+	width:			750px;
+	text-align: 	right;
+	vertical-align: middle;
+	text-decoration:none;
+	background-color:#0c0;
+	padding-right:	5px;
+ 	}
+
+a.menulink {
+	font-family: 	Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 		10px; 
+	line-height: 	18px;
+	color: 			#000;
+	text-align: 	right;
+	vertical-align: middle;
+	text-decoration:none;
+	background-color:#0c0;
+ 	}
+	
+a.menulink:HOVER {
+	text-decoration:underline; 
+	}
+	
+.links {
+	padding:		20px;
+	vertical-align: top;
+	}
+	
+.rechts {
+	padding:		0px;
+	padding-top:	20px;
+	background-color:#fff;
+	vertical-align: top;
+	align:			center;
+	}
+
+.rechtsdiv {
+	width:			200px;
+	padding:		5px;
+    overflow:		hidden;
+	}
+
+.twitterdiv h3 a {
+	color:			white;
+}
+.tweet {
+	margin:			5px 0;
+}
+.tweetdatum {
+	font-weight:	bold;
+}
+
+a.rechtsdiv {
+	text-decoration:underline;
+	color:			#cfc;
+	}
+
+.agendaitems {
+	margin:			5px;
+	margin-left:	10px;
+	}
+a.agendaitems{
+	margin:			0px;
+	text-decoration:none;
+	}
+a.agendaitems:HOVER{
+	text-decoration:underline;
+	}

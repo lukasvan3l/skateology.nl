@@ -1,0 +1,114 @@
+
+/********/	
+/*normal*/
+/********/
+BODY, table	{
+	font-family: verdana;
+	font-size: 11;
+	color: #6E6E6E;
+	background-color: white;
+	margin: 0;
+	overflow-x:hidden; 
+	scrollbar-track-color: #ffffff;
+	scrollbar-shadow-color: #ffffff;
+	scrollbar-highlight-color: #ffffff;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-base-color:  #ffffff;
+	scrollbar-arrow-color: #ffffff;
+	scrollbar-darkshadow-color: #ffffff;	
+	scrollbar-face-color: #B5D0EC;
+	}
+
+hr	{
+	color: #6e6e6e;
+	}
+	
+img	{
+	border-width: 0px;
+	}
+
+A	{
+	font-family:verdana;
+	font-size:11;
+	color: #6e6e6e; 
+	text-decoration: underline; 
+	font-weight: normal;
+	}
+
+A:HOVER {
+	color : #333399;
+	}
+
+H1, .titel {
+	font-family: verdana;
+	font-size: 13;
+	color: #000000; 
+	text-decoration: none; 
+	font-weight: bold;
+	}
+
+H2 {
+	font-family: verdana;
+	font-size: 12;
+	color: #000000; 
+	text-decoration: none; 
+	font-weight: normal;
+	}
+
+H3, LEGEND {
+	font-family: verdana;
+	font-size: 12;
+	color: #6e6e6e; 
+	text-decoration: none; 
+	font-weight: bold;
+	}
+	
+.button, textarea, input, select
+	{
+	font-family: verdana;
+	font-size: 11;
+	color: #7C8FA1; 
+	text-decoration: none; 
+	background-color: white;
+	border-color: #B5D0EC;
+	border-style: solid;
+	border-width: 1px;
+	}
+
+/*********/	
+/* tabel */
+/*********/
+.trhead {
+	background-color: #6e6e6e;
+	color: white;
+	}
+
+.tabledata {
+	margin-left: 10px;
+	border-collapse: collapse;
+	border: 1px solid #6e6e6e;
+	}
+	
+	
+/*********/	
+/*submenu*/
+/*********/
+.submenutable {
+	background-color:#ffffff;
+	border-color: #6E6E6E;
+	border-style: solid;
+	border-width: 1px;
+	}
+	
+.submenutd, A.submenutd {
+	border-width: 0px;
+	font-family:verdana;
+	font-size:11;
+	color: #6E6E6E; 
+	text-decoration: none; 
+	font-weight: bold;
+	}
+	
+A.submenutd:HOVER {
+	color: #333399;
+	}
